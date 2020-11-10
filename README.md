@@ -15,7 +15,7 @@ www.naver.com
 _This also be italic_
 
 **This is bold**
-_This also be bold__
+__This also be bold__
 
 * Item1
 * Itme2
