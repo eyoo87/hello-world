@@ -11,11 +11,11 @@ www.naver.com
 ### header3
 ###### header6
 
-*This text will be italic
-_This also be italic
+*This text will be italic*
+_This also be italic_
 
-**This is bold
-_This also be bold
+**This is bold**
+_This also be bold__
 
 * Item1
 * Itme2
