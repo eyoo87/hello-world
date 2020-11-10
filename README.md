@@ -3,19 +3,19 @@ test
 
 This is my First GitHub. 
 www.naver.com
-**bold
-*italic
+**bold**
+*italic*
 
 # header1
 ## header2
 ### header3
 ###### header6
 
-*This text will be italic
-_This also be italic
+*This text will be italic*
+_This also be italic_
 
-**This is bold
-_This also be bold
+**This is bold**
+_This also be bold_
 
 * Item1
 * Itme2
