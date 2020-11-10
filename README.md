@@ -3,8 +3,8 @@ test
 
 This is my First GitHub. 
 www.naver.com
-**bold
-*italic
+**bold**
+*italic*
 
 # header1
 ## header2
