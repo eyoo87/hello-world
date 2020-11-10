@@ -15,7 +15,9 @@ www.naver.com
 _This also be italic_
 
 **This is bold**
-_This also be bold_
+__This also be bold__
+
+_You **can** combine them_
 
 * Item1
 * Itme2
@@ -27,5 +29,5 @@ As Kanye West said:
 > the present is our past.
 
 I think you should use an
-'<addr>' element here instead
+`<addr>` element here instead
   
